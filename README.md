@@ -11,18 +11,4 @@ Oi me chamo guilherme, estudante de programação no senac
 - 🌱 Gosto de asp.net
 - 🤔 aprendendo javascript
 - 😄 css e html 
-- ⚡ boa mira nos fps
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-help
+- ⚡ entrega no prazo
